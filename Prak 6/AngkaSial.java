@@ -28,5 +28,4 @@
 	}
  }
 // Pertanyaan modul: Ketika eksepsi terjadi, apakah baris 12 pada AngkaSial.java di atas dieksekusi? Apakah baris 21 pada AngkaSial.java di atas dieksekusi?
-// Jawaban: Kedua baris (baris 12 dan baris 21) tidak bisa dieksekusi karena class AngkaSial exception belum dibuat,
-// maka perlu adanya pembuatan class AngkaSial exception terlebih dahulu yang merupakan turunan dari class exception
+// Jawaban: Pada file word
